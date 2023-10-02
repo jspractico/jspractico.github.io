@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi página web</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="left-column">
+        <div class="row">
+          <div class="column">
+            <h2>OR|4B</h2>
+            <button class="button-4" role="button" onclick="showImage(0)">
+              EP
+            </button>
+            <button class="button-4" role="button" onclick="showImage(1)">
+              MP
+            </button>
+            <button class="button-4" role="button" onclick="showImage(2)">
+              CO
+            </button>
+            <button class="button-4" role="button" onclick="showImage(3)">
+              BTN|SB
+            </button>
+          </div>
+          <div class="column">
+            <div class="dropdown">
+                <button class="dropbtn">ROL</button>
+                <div class="dropdown-content">
+                  <a href="#" onclick="showImage(16)">MP</a>
+                  <a href="#" onclick="showImage(17)">CO</a>
+                  <a href="#" onclick="showImage(18)">BTN</a>
+                  <a href="#" onclick="showImage(19)">SB</a>
+                  <a href="#" onclick="showImage(20)">BB</a>
+                  <a href="#" onclick="showImage(21)">BB vs SB</a>
+                </div>
+              </div>
+          </div>
+          <div class="column">
+            <h2>Cold 4B</h2>
+            <button class="button-4" role="button" onclick="showImage(15)">
+              Cold 4B
+            </button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="column">
+            <h2>vs EP|MP</h2>
+            <button class="button-4" role="button" onclick="showImage(4)">
+              MP|CO
+            </button>
+            <button class="button-4" role="button" onclick="showImage(5)">
+              CO
+            </button>
+            <button class="button-4" role="button" onclick="showImage(6)">
+              BTN
+            </button>
+            <button class="button-4" role="button" onclick="showImage(7)">
+              SB
+            </button>
+            <button class="button-4" role="button" onclick="showImage(8)">
+              BB
+            </button>
+          </div>
+          <div class="column">
+            <h2>vs CO</h2>
+            <button class="button-4" role="button" onclick="showImage(9)">
+              BTN
+            </button>
+            <button class="button-4" role="button" onclick="showImage(10)">
+              SB
+            </button>
+            <button class="button-4" role="button" onclick="showImage(11)">
+              BB
+            </button>
+          </div>
+          <div class="column">
+            <h2>vs BTN</h2>
+            <button class="button-4" role="button" onclick="showImage(12)">
+              SB
+            </button>
+            <button class="button-4" role="button" onclick="showImage(13)">
+              BB
+            </button>
+          </div>
+          <div class="column">
+            <h2>vs SB</h2>
+            <button class="button-4" role="button" onclick="showImage(14)">
+              BB
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="image-container">
+        <img id="image" src="" alt="" />
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
