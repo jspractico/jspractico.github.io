@@ -1,8 +1,8 @@
 const images = [
-  "1_OR_EP.png",        // 0
-  "2_OR_MP.png",        // 1
-  "3_OR_CO.png",        // 2
-  "4_OR_BTN_SB.png",    // 3
+  "ip--ep.png",        // 0
+  "ip--mp.png",        // 1
+  "ip--co.png",        // 2
+  "ip--bu.png",    // 3
   "5_MP-CO_vs_EP.png",  // 4
   "6_CO_vs_MP.png",     // 5
   "7_BTN_vs_EP-MP.png", // 6
@@ -21,6 +21,10 @@ const images = [
   "26--ROL_SB.png",     // 19
   "27--ROL_BB.png",     // 20
   "28--ROL_BB_vs_SB.png",  // 21
+  "oop--ep.png",
+  "oop--mp.png",
+  "oop--co.png",
+  "oop--sb.png",
 ];
 
 function showImage(index) {
