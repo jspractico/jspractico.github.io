@@ -209,8 +209,8 @@ hr.rounded {
     margin: 0;
   }
   
-  img {
-    height: auto;
+  #image {
+    max-height: 65%;
   }
 }
 
