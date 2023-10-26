@@ -26,13 +26,13 @@ h2 {
 }
 
 .image-container {
-  width: auto;
-  max-height: 100%;
+  width: 80%;
+  height: auto;
 }
 
 img {
-  max-width: auto;
-  height: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 .column {
@@ -209,8 +209,8 @@ hr.rounded {
     margin: 0;
   }
   
-  #image {
-    height: 70%;
+  img {
+    height: auto;
   }
 }
 
