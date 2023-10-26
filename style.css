@@ -208,10 +208,6 @@ hr.rounded {
     color: coral;
     margin: 0;
   }
-  
-  #image {
-    max-height: 65%;
-  }
 }
 
 
@@ -237,12 +233,4 @@ hr.rounded {
     flex-direction: row;
   }
   */
-  img {
-    width: auto;
-    height: auto;
-  }
-  .image-container {
-    width: 100%;
-    height: auto;
-  }
 }
