@@ -210,7 +210,7 @@ hr.rounded {
     margin: 0;
   }
   .image-container {
-  max-width: 500px;
+  max-height: 500px;
   border: 1px solid white;
   border-radius: 2%;
 }
