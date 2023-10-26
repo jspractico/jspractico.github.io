@@ -27,7 +27,7 @@ h2 {
 
 .image-container {
   width: 300px;
-  border: dashed 1px;
+  border: dashed white 1px;
 }
 
 .image-container img {
