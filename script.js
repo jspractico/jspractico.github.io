@@ -3,17 +3,17 @@ const images = [
   "ip--mp.png",        // 1
   "ip--co.png",        // 2
   "ip--bu.png",    // 3
-  "5_MP-CO_vs_EP.png",  // 4
-  "6_CO_vs_MP.png",     // 5
-  "7_BTN_vs_EP-MP.png", // 6
-  "8_SB_vs_EP-MP.png",  // 7
-  "9_BB_vs_EP-MP.png",  // 8
-  "10_BTN_vs_CO.png",   // 9
-  "11_SB_vs_CO.png",    // 10
-  "12_BB_vs_CO.png",    // 11
-  "13_SB_vs_BTN.png",   // 12
-  "14_BB_vs_BTN.png",   // 13
-  "15_BB_vs_SB.png",    // 14
+  "vs_ep_mp--mp_co-vs-ep.png",  // 4
+  "vs_ep_mp--co-vs-mp.png",     // 5
+  "vs_ep_mp--bu.png", // 6
+  "vs_ep_mp--sb.png",  // 7
+  "vs_ep_mp--bb.png",  // 8
+  "vs_co--bu.png",   // 9
+  "vs_co--sb.png",    // 10
+  "vs_co--bb.png",    // 11
+  "vs_bu--sb.png",   // 12
+  "vs_bu--bb.png",   // 13
+  "vs_sb--bb.png",    // 14
   "cold4b.png",         // 15
   "23--ROL_MP.png",     // 16
   "24--ROL_CO.png",     // 17
