@@ -26,13 +26,13 @@ h2 {
 }
 
 .image-container {
-  width: 80%;
-  height: auto;
+  width: 300px;
+  border: dashed 1px;
 }
 
-img {
+.image-container img {
+  max-height: 100%;
   max-width: 100%;
-  height: auto;
 }
 
 .column {
