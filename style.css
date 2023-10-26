@@ -26,7 +26,7 @@ h2 {
 }
 
 .image-container {
-  width: 250px;
+  max-width: 500px;
   border: dashed white 1px;
 }
 
@@ -209,7 +209,7 @@ hr.rounded {
     margin: 0;
   }
   .image-container {
-  width: 250px;
+  max-width: 500px;
   border: dashed white 1px;
 }
 
@@ -243,7 +243,7 @@ hr.rounded {
   }
   */
   .image-container {
-  width: 250px;
+  max-width: 500px;
   border: dashed white 1px;
 }
 
