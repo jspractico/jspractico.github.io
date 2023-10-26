@@ -211,7 +211,8 @@ hr.rounded {
   }
   .image-container {
   max-width: 500px;
-  border: dashed white 1px;
+  border: 1px solid white;
+  border-radius: 2%;
 }
 
 .image-container img {
@@ -245,7 +246,8 @@ hr.rounded {
   */
   .image-container {
   max-width: 500px;
-  border: dashed white 1px;
+  border: 1px solid white;
+  border-radius: 2%;
 }
 
 .image-container img {
